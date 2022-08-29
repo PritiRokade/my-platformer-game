@@ -16,4 +16,4 @@
 
 ![Run window]
 
-![Game over]
+![Game over](https://github.com/PritiRokade/my-platformer-game/blob/main/Screenshot/GameOver%20-%20Copy.png)
