@@ -14,6 +14,6 @@
 
 ![Game Screen](https://github.com/PritiRokade/my-platformer-game/blob/main/Screenshot/GameScreen%20-%20Copy.png)
 
-![Run window]()
+![Run window](https://github.com/PritiRokade/my-platformer-game/blob/main/Screenshot/RunWindow%20-%20Copy.png)
 
 ![Game over](https://github.com/PritiRokade/my-platformer-game/blob/main/Screenshot/GameOver%20-%20Copy.png)
